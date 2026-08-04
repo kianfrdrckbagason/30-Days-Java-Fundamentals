@@ -1,0 +1,1 @@
+Day 2 Im refreshed about the operators in java, we have Addition,Subtraction,Multiplication which has * sign, division and modulo which compute the remainder and has a % sign. Interms of challenges I encountered, its about remembering the difference terminology and about the modulo,and I also learned closing the Scanner with scan.close() at the end of the main method.

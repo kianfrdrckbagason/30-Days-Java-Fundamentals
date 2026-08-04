@@ -1,0 +1,1 @@
+I learned that variables should start with smallLetter like "firstName", and instead of middleName just name your variables accordingly since your just storing single character on the Char Datatype MiddleInitial will be good. Lastly on boolean datatype when using if-else condition just use if(isStudent) beacause it already check if the value is true and not if(isStudent=true).

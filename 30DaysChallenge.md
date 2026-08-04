@@ -72,6 +72,8 @@ Subtraction = 5
 Multiplication = 50
 Division = 2
 Modulo = 0
+
+
 Day 3 – Scanner
 
 Learn
