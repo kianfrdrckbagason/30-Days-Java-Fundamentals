@@ -14,8 +14,14 @@ Rules
 ✅ Type every line yourself.
 ✅ Commit your work to Git every day.
 ✅ Solve without AI first, then compare.
-Week 1 – Java Basics
 
+Github
+-git status
+-git add .
+-git commit -m "Day 01 - Datatype and Variables"
+-git push origin main
+
+Week 1 – Java Basics
 
 Day 1 – Variables & Data Types
 
