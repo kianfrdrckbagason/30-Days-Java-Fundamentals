@@ -91,6 +91,7 @@ Address
 Print
 
 Hello Kian!
+
 Day 4 – If Statements
 
 Challenge
@@ -102,6 +103,7 @@ Output
 Minor
 Adult
 Senior
+
 Day 5 – Nested If
 
 Challenge
@@ -113,6 +115,7 @@ Make a grading system.
 80 = Good
 75 = Passed
 Below = Failed
+
 Day 6 – Switch
 
 Challenge
@@ -138,7 +141,10 @@ Course
 
 Print formatted output.
 
+___
+
 Week 2 – Loops
+
 Day 8
 
 for loop
@@ -150,6 +156,7 @@ Print
 3
 ...
 100
+
 Day 9
 
 while loop
@@ -161,6 +168,7 @@ Countdown
 8
 ...
 0
+
 Day 10
 
 do-while
@@ -168,6 +176,7 @@ do-while
 Password checker
 
 Repeat until correct.
+
 Day 11
 
 Patterns
@@ -179,6 +188,7 @@ Print
 ***
 ****
 *****
+
 Day 12
 
 Reverse Pattern

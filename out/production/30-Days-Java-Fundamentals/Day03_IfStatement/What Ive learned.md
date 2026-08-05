@@ -1,0 +1,2 @@
+Today, I'm reviewed about "If" COnditional Statement, I also learned best appproach to this condition since it reads the code from top to bottom, I should start from 60 which is equivalent to senior and I forgot to close the Scanner at the end of the main method, also I forgot to use best practice spicifically closing the "else" condition. Im also refreshed how to use logical operators such as "&&,
+||, !".
