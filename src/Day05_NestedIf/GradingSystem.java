@@ -1,4 +1,4 @@
-package Day04_NestedIf;
+package Day05_NestedIf;
 import java.util.Scanner;
 
 public class GradingSystem{

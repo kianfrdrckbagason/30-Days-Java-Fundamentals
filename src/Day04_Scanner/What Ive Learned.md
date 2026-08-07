@@ -1,0 +1,2 @@
+Today I learned about Scanner, how to import scanner using java.util, I also added a syntax scan.nextLine() so that the next user input won't be skipped. I alse learned how to convert character variable to upper case, so that userinput can validate even if its y or Y. the syntax for that is int char = Character.toUpperCase(scan.next().charAt(0));
+I also added a Conditional Statement to check the Category of Age.
