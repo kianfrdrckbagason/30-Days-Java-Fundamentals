@@ -1,0 +1,1 @@
+Today I created a mini project and applied all the fundamentals i learned from day 01. I also notice adding a nextline after entering a character data. By doing this, it will comsume the newline if you are having another userinput. I encountered challenges such as inconsistency about the naming a variables, I sometimes forget to use camelCase for that.

@@ -163,6 +163,8 @@ Print
 ...
 100
 
+and print even numbers only
+
 Day 9
 
 while loop
