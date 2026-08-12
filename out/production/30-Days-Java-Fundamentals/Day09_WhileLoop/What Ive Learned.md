@@ -1,0 +1,1 @@
+Today I learned about while loop, which it only takes 1 condition and it will stop the loop once its meet, and unlike for loop your will be the one who set your iterations, increment or decrement because it is not on the condition of the while loop, unlike for loop which has initialization, condition and increment or decrement.
