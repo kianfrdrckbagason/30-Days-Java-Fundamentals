@@ -1,4 +1,4 @@
-package DoWhileLoop;
+package Day10_DoWhileLoop;
 import java.util.Scanner;
 
 public class PasswordChecker {
