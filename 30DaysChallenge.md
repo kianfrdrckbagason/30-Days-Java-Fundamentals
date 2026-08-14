@@ -214,6 +214,7 @@ Multiplication Table
 7 x 2
 ...
 7 x 10
+
 Day 14 – Mini Project
 
 Guess the Number
