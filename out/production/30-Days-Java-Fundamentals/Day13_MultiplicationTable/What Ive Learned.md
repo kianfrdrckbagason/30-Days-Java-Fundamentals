@@ -1,0 +1,1 @@
+Today, I learned how the value of `i` changes during each iteration of a `for` loop and how the loop controls the repetition of a task. I applied this concept by creating a multiplication table that uses a `for` loop to calculate and display the product of a number multiplied by values from 1 to 10.
